@@ -27,8 +27,8 @@ I'm always excited to connect with fellow builders, researchers, and changemaker
 <img title="Linux" alt="Linux" src="https://raw.githubusercontent.com/azselim/azselim/0b9e7d5be3bffdd155f075f62b2ddf7afdba7b1a/assets/linux-original.svg" width="40" height="40" style="margin:4px"/>
 <img title="Git" alt="Git" src="https://raw.githubusercontent.com/azselim/azselim/0b9e7d5be3bffdd155f075f62b2ddf7afdba7b1a/assets/git-original.svg" width="40" height="40" style="margin:4px"/>
 <img title="PyTorch" alt="PyTorch" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" style="margin:4px"/>
-<img title="TensorFlow" alt="TensorFlow" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" style="margin:4px"/>
+<img title="TensorFlow" alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" ...
 <img title="OpenCV" alt="OpenCV" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40" style="margin:4px"/>
 <img title="PostgreSQL" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" style="margin:4px"/>
-<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" style="margin:4px"/>
+<img title="MySQL" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="margin:4px"/>
 </p
