@@ -6,7 +6,7 @@ I'm a Software Engineering student at the University of Waterloo, driven by a pa
 
 **Previously, I have...**
 * Interned at Quantiphi as a Machine Learning Engineer, building computer vision and point-set registration models to improve concussion safety for the NFL and analyzing COVID-19 genomic data.
-* Led machine learning research at St. Michael’s Hospital, implementing supervised learning models to accelerate medical research and patient care.
+* Conducted machine learning research with St. Michael’s Hospital, implementing supervised learning models to accelerate the pipeline from medical research to improved patient care.
 * Founded Circulate, a registered not-for-profit organization addressing India's 2.3 million-unit blood shortage through AI-driven optimization, partnering with dozens of blood banks and hospitals.
 * Presented at global conferences like **World Summit AI** and **Collision Conference**, sharing how I use AI for public health innovation.
 * Built projects ranging from a smart water bottle that humorously motivates hydration, to an AI triage app for reducing ER wait times, to a health dashboard using wearable data, to autonomous drone systems.
