@@ -18,17 +18,22 @@ I'm always excited to connect with fellow builders, researchers, and changemaker
 **Technologies and Tools I Use:**
 
 <p align="center">
-<img title="Python" alt="Python" src="https://raw.githubusercontent.com/azselim/azselim/0b9e7d5be3bffdd155f075f62b2ddf7afdba7b1a/assets/python-original.svg" width="40" height="40" style="margin:4px"/>
-<img title="Java" alt="Java" src="https://raw.githubusercontent.com/azselim/azselim/0b9e7d5be3bffdd155f075f62b2ddf7afdba7b1a/assets/java-original.svg" width="40" height="40" style="margin:4px"/>
-<img title="C" alt="C" src="https://raw.githubusercontent.com/azselim/azselim/0b9e7d5be3bffdd155f075f62b2ddf7afdba7b1a/assets/c-original.svg" width="40" height="40" style="margin:4px"/>
-<img title="C++" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="margin:4px"/>
-<img title="HTML" alt="HTML" src="https://raw.githubusercontent.com/azselim/azselim/0b9e7d5be3bffdd155f075f62b2ddf7afdba7b1a/assets/html5-original.svg" width="40" height="40" style="margin:4px"/>
-<img title="CSS" alt="CSS" src="https://raw.githubusercontent.com/azselim/azselim/0b9e7d5be3bffdd155f075f62b2ddf7afdba7b1a/assets/css3-original.svg" width="40" height="40" style="margin:4px"/>
-<img title="Linux" alt="Linux" src="https://raw.githubusercontent.com/azselim/azselim/0b9e7d5be3bffdd155f075f62b2ddf7afdba7b1a/assets/linux-original.svg" width="40" height="40" style="margin:4px"/>
-<img title="Git" alt="Git" src="https://raw.githubusercontent.com/azselim/azselim/0b9e7d5be3bffdd155f075f62b2ddf7afdba7b1a/assets/git-original.svg" width="40" height="40" style="margin:4px"/>
-<img title="PyTorch" alt="PyTorch" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" style="margin:4px"/>
-<img title="TensorFlow" alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" ...
-<img title="OpenCV" alt="OpenCV" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40" style="margin:4px"/>
-<img title="PostgreSQL" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" style="margin:4px"/>
-<img title="MySQL" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="margin:4px"/>
-</p
+  <img title="Python" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="margin:4px"/>
+  <img title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" style="margin:4px"/>
+  <img title="C" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" style="margin:4px"/>
+  <img title="C++" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="margin:4px"/>
+  <img title="HTML" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="margin:4px"/>
+  <img title="CSS" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="margin:4px"/>
+  <img title="Linux" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" style="margin:4px"/>
+  <img title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="margin:4px"/>
+  <img title="PyTorch" alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" style="margin:4px"/>
+  <img title="TensorFlow" alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" style="margin:4px"/>
+  <img title="OpenCV" alt="OpenCV" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" style="margin:4px"/>
+  <img title="PostgreSQL" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" style="margin:4px"/>
+  <img title="MySQL" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="margin:4px"/>
+  <img title="Jupyter" alt="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" style="margin:4px"/>
+  <img title="NumPy" alt="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" style="margin:4px"/>
+  <img title="Pandas" alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" style="margin:4px"/>
+  <img title="Matplotlib" alt="Matplotlib" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" style="margin:4px"/>
+  <img title="Scikit-learn" alt="Scikit-learn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" style="margin:4px"/>
+</p>
