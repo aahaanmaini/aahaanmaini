@@ -3,7 +3,7 @@
 I'm a Software Engineering student at the University of Waterloo, driven by a passion for machine learning, entrepreneurship, and building technology that solves real-world challenges. I’ve worked across research, industry, and entrepreneurship—gaining hands-on experience with cutting-edge ML systems, open-source contributions, and products that make an impact.  
 
 **Previously, I have...**  
-* Interned at **Transformer Lab** as a Machine Learning Engineer, shipping 60+ open-source features and launching 12+ pre-built “Recipes” that simplify fine-tuning, evaluation, and deployment of open-source LLMs.  
+* Interned at **Transformer Lab** as a Machine Learning Engineer, shipping 72+ open-source features and launching 12+ pre-built “Recipes” that simplify fine-tuning, evaluation, and deployment of open-source LLMs.  
 * Conducted **computer science research** with St. Michael’s Hospital, implementing supervised ML algorithms (SVM, KNN, Bayesian Classifier, Logistic Regression) to accelerate the pipeline from medical studies to improved patient care.  
 * Interned at **Quantiphi** as a Machine Learning Engineer, building advanced computer vision models to improve concussion safety for the NFL and deploying ML pipelines to analyze COVID-19 genomic data and predict harmful variants.  
 * Founded **Circulate**, a registered not-for-profit tackling India’s 2.3M-unit blood shortage by developing an AI-driven optimization algorithm. Partnered with dozens of blood banks and hospitals across India, and featured in Canada’s *National Observer*.  
